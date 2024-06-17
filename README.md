@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @KxngVxper
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me -  Stuff
-- 😄 Pronouns: Stuff / Stuff
-- ⚡ Fun fact: Stuff
+- 👀 I’m interested in Video Games.
+- 🌱 I’m currently basic coding.
+- 💞️ I’m looking to collaborate on projects that will enlighten me.
+- 📫 How to reach me - Discord - V1per7NK
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I am ✨ special ✨ 
 
 <!---
 KxngVxper/KxngVxper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
